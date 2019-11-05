@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.suspense-btn {
+  height: 30px;
+  padding: 5px;
+  margin-right: 5px;
+  background: chartreuse;
+  font-size: 15px;
+  border: 2px solid purple;
+  margin-bottom: 15px;
+}
+
+.suspense-btn:hover {
+  background: blueviolet;
+  color: white;
+  border: 2px solid chartreuse;
+}
+
+.apple,
+.sandloader {
+  padding: 5px;
+}
+
+.apple,
+.sandloader {
+  padding: 5px;
+}
+
+.show {
+  text-align: center;
+}
